@@ -18,7 +18,7 @@ class Stack {
   }
 
   push(element) {
-    this.push(element);
+    return this.push(element);
     // this.push(element);
     // throw new NotImplementedError('Not implemented');
     // remove line with error and write your code here
